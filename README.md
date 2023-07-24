@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**e-fanto/e-fanto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I've got a few tools under my belt, and am ready to hone my craft!
 
-Here are some ideas to get you started:
+Skills:
+Object-Oriented Programming:
+Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Web Application Development:
+HTML CSS JavaScript Spring Boot Vue.js
+
+Database Programming:
+JDBC Table Design SQL PostgreSQL ER_Diagrams
+
+Development tools and techniques:
+Agile JUnit Integration_Testing Git IntelliJ
